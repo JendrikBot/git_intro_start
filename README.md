@@ -9,4 +9,4 @@ We bouwen de repo op om arduino projecten en documentatie bij te houden
 ## Contributors
 
 - Jendrik Bottelberghe
-- Felix Vanhoutte ok
+- Felix Vanhoutte 
