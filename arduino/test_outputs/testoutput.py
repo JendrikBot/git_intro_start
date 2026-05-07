@@ -1,26 +1,12 @@
 # ------------------------------------------------------------
-# OUTPUT-TEST VOOR HOOFDSCRIPT (GEEN HARDWARE NODIG)
+# OUTPUT-TEST VOOR HOOFDSCRIPT
 # ------------------------------------------------------------
-# Dit bestand simuleert ALLE logica van jullie hoofdscript:
-# - trigger teller (3 signalen binnen 45s)
-# - cooldown van 10s
-# - lock tijdens video
-# - automatische reset na 45s
-# - prints die identiek zijn aan het echte script
-#
-# Er wordt GEEN hardware gebruikt:
-# - geen GPIO
-# - geen mpv
-# - geen schermcommando’s
-# - geen threading
-#
-# Hierdoor kan je de logica testen op een gewone computer.
 
 
 import time
 
 # ------------------------------------------------------------
-# GLOBALE VARIABELEN (zoals in jullie hoofdscript)
+# GLOBALE VARIABELEN
 # ------------------------------------------------------------
 
 locked = False  # True wanneer video speelt of lock actief is
