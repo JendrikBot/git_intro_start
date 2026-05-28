@@ -22,4 +22,4 @@ Wanneer al deze onderdelen aan elkaar geconnecteerd worden bekom je: ![foto](./i
 
 Het breadboard dient in deze schakeling enkel voor visuele feedback, zo is het snel duideijk dat de projector zal projecteren. Dit is nodig omdat de Raspberry pi in combinatie met de projector zorgt voor latency, waardoor het uitgangssignaal wat vertraging heeft.
 
-<video src="./videos/filmpje_opktech.mp4" controls width="600"></video>
+Uiteindelijk was [dit filmpje](./filmpje%20opktech.mp4) Het uiteindelijke resultaat dat bekomen was. 
